@@ -26,5 +26,5 @@ Se non possiedi il gioco, puoi acquistarlo su piattaforme di distribuzione digit
 2. Cartella con file di gioco aggiunti (Corrisponde al 3^ punto della lista precedente)
  ![Cartella con i file di gioco dentro](https://drive.google.com/uc?export=view&id=16C6RMigFuUZ47F4lZVzhDksZdOZ74RPY)
 
-3. Come si presenta la cartella alla fine (Corrisponde al 5^ punto della lista precedente) 
+3. Come si presenta la cartella alla fine (Corrisponde al 4^ punto della lista precedente) 
 ![Come si presenta la cartella pronta per essere avviata](https://drive.google.com/uc?export=view&id=1MgQo1eqUPSTcYKQnwhDNnhUm0YsdDSUP)
