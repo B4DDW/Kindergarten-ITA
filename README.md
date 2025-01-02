@@ -21,7 +21,7 @@ Se non possiedi il gioco, puoi acquistarlo su piattaforme di distribuzione digit
 # Esempi con le immagini
 *I cerchi rossi disegnati nelle foto indicano i file che devono essere presenti in base alla scritta sopra la foto*
 1. ZIP appena estratta (Corrisponde al 1^ punto della lista precendete) 
-[ZIP appena estratta](https://drive.google.com/uc?export=view&id=1SsiyWOXb3OGPkDikhbwCIuGCFIH0a6OI)
+![ZIP appena estratta](https://drive.google.com/uc?export=view&id=1SsiyWOXb3OGPkDikhbwCIuGCFIH0a6OI)
 
 2. Cartella con file di gioco aggiunti (Corrisponde al 3^ punto della lista precedente)
  ![Cartella con i file di gioco dentro](https://drive.google.com/uc?export=view&id=1OFWh4nZYc_QaGv6E_KiYTDz4-cyyzu1l)
