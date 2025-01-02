@@ -14,12 +14,17 @@ Se non possiedi il gioco, puoi acquistarlo su piattaforme di distribuzione digit
 # Installazione
 1. Scarica la ZIP da [qui](https://github.com/B4DDW/Kindergarten-ITA/releases/tag/Kindergarten).
 2. Estrai la ZIP in una cartella a tua scelta.
-3. Aggiungi un collegamento del gioco nella cartella dove hai estratto la ZIP.
+3. Aggiungi i file di gioco nella cartella dove hai estratto la ZIP.
 4. Clicca su "CAMBIOLINGUA.exe" che creerà un file chiamato "Kindergarten (Patch and run)".
 5. Avvia il file appena creato e goditi l'esperienza in italiano.
 
 # Esempi con le immagini
-*I cerchi rossi disegnati nelle foto indicano i file che devono essere presenti in base alla scritta prima di aprire la foto*
-1. ![ZIP appena estratta](https://drive.google.com/uc?export=view&id=1SsiyWOXb3OGPkDikhbwCIuGCFIH0a6OI)
-2. ![Cartella con i file di gioco dentro](https://drive.google.com/uc?export=view&id=1OFWh4nZYc_QaGv6E_KiYTDz4-cyyzu1l)
-3. ![Come si presenta la cartella pronta per essere avviata](https://drive.google.com/uc?export=view&id=1MgQo1eqUPSTcYKQnwhDNnhUm0YsdDSUP)
+*I cerchi rossi disegnati nelle foto indicano i file che devono essere presenti in base alla scritta sopra la foto*
+1. ZIP appena estratta (Corrisponde al 1^ punto della lista precendete)
+https://drive.google.com/uc?export=view&id=1SsiyWOXb3OGPkDikhbwCIuGCFIH0a6OI
+
+2. Cartella con file di gioco aggiunti (Corrisponde al 3^ punto della lista precedente)
+https://drive.google.com/uc?export=view&id=1OFWh4nZYc_QaGv6E_KiYTDz4-cyyzu1l
+
+3. Come si presenta la cartella alla fine (Corrisponde al 5^ punto della lista precedente)
+https://drive.google.com/uc?export=view&id=1MgQo1eqUPSTcYKQnwhDNnhUm0YsdDSUP
