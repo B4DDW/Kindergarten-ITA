@@ -22,4 +22,4 @@ Se non possiedi il gioco, puoi acquistarlo su piattaforme di distribuzione digit
 *I cerchi rossi disegnati nelle foto indicano i file che devono essere presenti in base alla scritta prima di aprire la foto*
 1. ![ZIP appena estratta](https://drive.google.com/uc?export=view&id=1SsiyWOXb3OGPkDikhbwCIuGCFIH0a6OI)
 2. ![Cartella con i file di gioco dentro](https://drive.google.com/uc?export=view&id=1OFWh4nZYc_QaGv6E_KiYTDz4-cyyzu1l)
-3. ![Come si presenta la cartella pronta per essere avviata](https://drive.google.com/file/d/1MgQo1eqUPSTcYKQnwhDNnhUm0YsdDSUP/view?usp=sharing)
+3. ![Come si presenta la cartella pronta per essere avviata](https://drive.google.com/uc?export=view&id=1MgQo1eqUPSTcYKQnwhDNnhUm0YsdDSUP)
