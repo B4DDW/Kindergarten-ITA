@@ -28,3 +28,5 @@ Se non possiedi il gioco, puoi acquistarlo su piattaforme di distribuzione digit
 
 3. Come si presenta la cartella alla fine (Corrisponde al 4^ punto della lista precedente) 
 ![Come si presenta la cartella pronta per essere avviata](https://drive.google.com/uc?export=view&id=1MgQo1eqUPSTcYKQnwhDNnhUm0YsdDSUP)
+
+P.S: Se si trovano errori si prega di segnalarlo.
